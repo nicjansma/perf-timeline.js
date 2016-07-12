@@ -28,6 +28,10 @@ talk [Measuring Continuity](https://www.slideshare.net/nicjansma/measuring-conti
 * DOM Node Count
 * DOM Size Count
 
+## Demo
+
+![Demo](demo.jpg)
+
 ## Usage
 
 Copy the contents of `perf-timeline.js` into GreaseMonkey or TamperMonkey.
