@@ -15,7 +15,7 @@ talk [Measuring Continuity](https://www.slideshare.net/nicjansma/measuring-conti
 * Page Busy %
 * FPS
 * Video FPS
-* # of JavaScript Errors
+* JavaScript Errors
 * Scroll Pixels
 * Scroll %
 * Click count
